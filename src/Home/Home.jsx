@@ -47,7 +47,7 @@ class Home extends Component {
               alt=""
               style={{ width: "25px", paddingBottom: "5px" }}
             />{" "}
-            Saran
+          Soles
           </a>
           <button
             className="navbar-toggler"
@@ -308,8 +308,8 @@ class Home extends Component {
                 <a href="tel:+91 6379710438">Phone:9345310530</a>
               </p>
               <p>
-                <a href="mailto:saranmvdm@gmail.com">
-                  Email:soleswuran542@gmail.com
+                <a href="mailto:soleswaran542@gmail.com">
+                  Email:soleswaran542@gmail.com
                 </a>
               </p>
             </div>
